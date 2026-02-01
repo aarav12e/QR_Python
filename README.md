@@ -1,5 +1,4 @@
 <h1 align="center">📱 Python QR Code Generator (GUI)</h1>
-hello 
 
 <p align="center">
 A simple and user-friendly <b>QR Code Generator</b> built using <b>Python</b>, <b>Tkinter</b>, and <b>qrcode</b>.
